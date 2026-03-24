@@ -1,4 +1,15 @@
-h1{
-    font-size: 50px;
-     color:pink
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double+Ink:wght@100..900&display=swap');
+
+:root{ --cor-de-fundo:#f06654;
+    --cor-texto-principal:#f7b087;
+    --cor-texto-secundaria:#faeeb6;
+    --botao-ativo:#eb7091;
+    --botao-inativo:#f1e662;
+    
+}
+
+
+body{
+    "Bitcount Grid Double Ink", system-ui;
+  font-optical-sizing: auto;
 }
