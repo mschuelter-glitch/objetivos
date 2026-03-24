@@ -10,6 +10,7 @@
 
 
 body{
-    "Bitcount Grid Double Ink", system-ui;
-  font-optical-sizing: auto;
+    background: var(--cor-de-fundo);
+    color: var(--cor-texto-principal);
+    font-family: "Bitcount Grid Double Ink", system-ui;
 }
